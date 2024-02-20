@@ -8,50 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alberto Puerto Collado
+    tagline: Salesforce Architect
+    avatar: albertoProfile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: # censored@gmail.com
+    phone: # 0034 616161616
+    timezone: Europe/Spain Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: # blog.webjeda.com #do not add http://
+    linkedin: albertopc
+    xing: 
+    github: albertopuerto
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Basketball
           link:
 
-        - item: Snowboarding
+        - item: Hiking
           link:
 
-        - item: Cooking
+        - item: Chess
           link:
 
 career-profile:
@@ -66,110 +63,175 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: HNC in Web Development
+        university: Bilingue Institute Laguna de Joatzel
+        time: 2015 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Titulación: Nivel EQF-MEC 5 - nota media de 1º de 9.0, de 2º de 8.6Titulación: Nivel EQF-MEC 5 - nota media de 1º de 9.0, de 2º de 8.6
+          Actividades y grupos: ProgramaMe 2016 - participación como representante del centro en el concurso español de programación estructuradaActividades y grupos: ProgramaMe 2016 - participación como representante del centro en el concurso español de programación estructurada
+          La competencia general es la de desarrollar, implantar y mantener aplicaciones web, con independencia del modelo empleado y utilizando las tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo con los criterios de accesibilidad, usabilidad y calidad exigidas en los estándares establecidos
+      - degree: BSc Economis (Equivalent)
+        university: Carlos III University
+        time: 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Titulación: Nivel EQF-MEC 6 - Certificado de haber superado 180 créditos en la Lic. EconomíaTitulación: Nivel EQF-MEC 6 - Certificado de haber superado 180 créditos en la Lic. Economía
+          Actividades y grupos: Campeonatos de ajedrez y baloncesto a nivel interno y tae kwon do en competiciones a nivel universitario autonómico y nacionalActividades y grupos: Campeonatos de ajedrez y baloncesto a nivel interno y tae kwon do en competiciones a nivel universitario autonómico y nacional
+          Conocimiento y comprensión de los conceptos básicos y de la metodología para abordar el análisis de problemas económicos fundamentales.
+          Estudio concienzudo de los problemas, reuniendo los hechos, identificando las causas y evaluando las consecuencias. Análisis de los datos.
+          Conocimientos sobre diversas áreas tales como cálculos estadísticos, contabilidad, derecho, macro y microeconomía, marketing, análisis financiero…
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Lead ORANGEBANK
+        time: 2020 - present
+        company: adesso SE, Spain
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Mar.2020 - Present
+          Orangebank: Started as Spanish project, and now working in the fusion of several countries, building a bank from scratch
+          TODO: split Chapter Lead.. Technical Lead.. spain.. and international projects
+            - LWC with JEST Tests
+            - End to end tests with webdriverio
+            - Integrations (microservices architecture ecosystem)
+            - Git and Pull Request reviewer
+            - CICD using Jenkins with sfdx features integrated
+            - Agile methodologies
+            - Analysis
+            - Service Cloud: omnichannel, milestones, entitlements...
+            - Apex, triggers, flows, admin tools... etc
+            - Focused in best practices: PMD, SONAR, Eslint...
+            - Striving to deliver reusable and scalable components and frameworks
+            - Javascript libraries: sheetjs, moment...
+      - role: Architect adesso
+        time: 2020 - present
+        company: adesso SE, Spain
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Mar.2020 - Present
+          Member of adesso´s Architecture department
+            - Provide solutions and knowledge
+            - Build CICD pipelines to be used for company projects
+            - Design of frameworks
+            - Training
+      - role: Technical Lead IATA
+        time: 2020 - 2020
+        company: adesso SE, Spain
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mar.2020 - Jul.2020
+          Tech Lead in Air Transport Association (IATA) and other smaller projects
+            - Analysis
+            - Define best practices
+            - Data modeling
+            - Team management
+            - Collaborate in several RFPs
+            - Trainer
+      - role: Senior Analyst & Programmer IATA
+        time: 2019 - 2020
+        company: adesso SE, Spain
+        details: |
+          Oct.2019 - Jun.2020
+          Working on Salesforce implementation for Air Transport Association (IATA) an international Swiss company.
+          Improving the following skills:
+            - Community Cloud
+            - Lightning Web Components (LWC) & Javascript
+            - Apex Code & Triggers
+            - Integrations
+            - Testing
+            - Javascript libraries: google maps
+            - Google Analytics
+            - Agile and Scrum methodology
+            - Git with Bitbucket, release manager of the project
+      - role: Senior Analyst & Programmer BBVA
+        time: 2018 - 2019
+        company: adesso SE, Spain
+        details: |
+          Oct.2018 - Jul.2019
+          Worked on Salesforce implementation for a spanish bank with great prominence in the international marketplace (BBVA).
+          Improving the following skills:
+            - Apex Code & Triggers
+            - Lightning & Javascript
+            - LWC pioneer
+            - Javascript libraries: chart js, google maps
+            - Testing
+            - Agile and Scrum methodology
+            - Git with Bitbucket, Jenkins, Sonar...
+            - Visual Studio Code evangelist
+      - role: Developer and Release Manager IBERIA
+        time: 2017 - 2018
+        company: Accenture, Madrid
+        details: |
+          Jul.2017 - Oct.2018 (1 year and 4 months)
+            - Worked on Asian projects which were started during the internships (Teva Takeda - Pharmaceutical sector)
+            - Worked on Salesforce implementation for a spanish airline with great prominence in the international marketplace (Iberia Airlines).
+              - I´ve been gradually acquiring new skills and responsibilities in several areas such as:
+                - Apex Code & Triggers
+                - Visualforces & Javascript
+                - Testing
+                - Integrations
+                - Release Manager: with DevOps, Gitlab and Jenkins
+                - Analytical Skills
+                - Team management
+      - role: Developer Practical Training TEVA TAKEDA
+        time: 2017 - 2017
+        company: Accenture, Madrid
+        details: |
+          Mar.2017 - Jun.2017 (4 months)
+          Working on Salesforce CRM, specially with two international projects which are managed using Salesforce tecnology and Veeva CRM integration.
+          Japanese and Indonesian projects, with Israeli Client
+      - role: Trailblazer
+        time: 2017 - Present
+        company: Trailhead by Salesforce
+        details: |
+          Feb.2017
+          Salesforce, Ranger
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Salesforce Certified Sharing and Visibility Architect
+          start: 2021
+          end:
+          organization: Salesforce
+          credentialid: 22614954
+          credentialurl: https://trailhead.salesforce.com/en/credentials/verification/
+          credentialname: Sharing and Visibility Architect
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+            Nov.2021
+        - name: Salesforce Certified Platform Developer II
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Salesforce
+          credentialid: 19956527
+          credentialurl: https://trailhead.salesforce.com/en/credentials/verification/
+          credentialname: Platform Developer II
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Apr.2019
+        - name: Salesforce Certified Platform Developer I
+          start: 2018
+          end:
+          organization: Salesforce
+          credentialid: 18908157
+          credentialurl: https://trailhead.salesforce.com/en/credentials/verification/
+          credentialname: Platform Developer I
+          details: |
+            Jul.2018
+        - name: Salesforce Certified Administrator
+          start: 2018
+          end:
+          organization: Salesforce
+          credentialid: 18324443
+          credentialurl: https://trailhead.salesforce.com/en/credentials/verification/
+          credentialname: Administrator
+          details: |
+            Mar.2018
+        - name: Salesforce Certified App Builder
+          start: 2018
+          end:
+          organization: Salesforce
+          credentialid: 18352023
+          credentialurl: https://trailhead.salesforce.com/en/credentials/verification/
+          credentialname: App Builder
+          details: |
+            Mar.2018
 
 projects:
     title: Projects
@@ -178,87 +240,76 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Wedding website
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Family website as a wedding event."
 
-      - title: DevStudio
+      - title: Server
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Selfhosted server with a multitude of technologies used. More than 40 docker containers."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Apex
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript
         level: 98%
 
-      - name: Angular
+      - name: LWC
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Java
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: PHP
         level: 60%
 
 footer: >
