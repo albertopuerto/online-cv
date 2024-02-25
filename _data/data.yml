@@ -83,15 +83,62 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Technical Lead ORANGEBANK
+      - role: Technical Lead / Champion Lead (Orangebank Spain)
+        time: 2023 - Present
+        company: adesso SE, Spain
+        details: |
+          Jun.2023 - Present
+          As Tech Lead, responsible for making technical decisions and priorities, mitigates key technical risks
+            - Technical questions
+            - Identification of potential risks on the technical approach taken
+            - Monitor the squad´s best practices (Development, Security, Arch, CICD)
+            - Check agile way of Working
+              - DoR and DoD
+              - Identify dependencies with other squads/teams (Events/API Contracts)
+              - Sprint tech planning sessions
+              - Help and coordination with Product Owner
+          I was also working in the day-to-day:
+            - LWC with JEST Tests
+            - End to end tests with webdriverio (ATDD)
+            - Integrations (microservices architecture ecosystem)
+            - Git and Pull Request reviewer
+            - CICD using Jenkins with sfdx features integrated
+            - Agile methodologies
+            - Analysis
+            - Focused in best practices: PMD, SONAR, Eslint...
+            - Striving to deliver reusable and scalable components and frameworks
+            - Apex, triggers, flows, Salesforce tools... etc
+      - role: Champion Lead (Orangebank - Onebank)
+        time: 2022 - 2023
+        company: adesso SE, Spain
+        details: |
+          Jun.2022 - Jun.2023
+          New project, fusion of several countries, building a bank from scratch. It was terminated due to the sale of the company to BNP Paribus
+          As Chapter Lead, I was responsible for the technical reporting line for all the developers of the same technology.
+          The main capabilities:
+            - Build up the right capabilities of people
+            - Equip them with the skills, tools...
+            - Encourage the development best practices aligned with the chapter technology.
+            - Provide standar solutions to deliver technical excellence
+            - Ensure that developers are deployed to value-creation opportunities
+          I was also working in the day-to-day:
+            - LWC with JEST Tests
+            - End to end tests with webdriverio (ATDD)
+            - Integrations (microservices architecture ecosystem)
+            - Git and Pull Request reviewer
+            - CICD using Jenkins with sfdx features integrated
+            - Agile methodologies
+            - Analysis
+            - Focused in best practices: PMD, SONAR, Eslint...
+            - Striving to deliver reusable and scalable components and frameworks
+            - Apex, triggers, flows, Salesforce tools... etc
+      - role: Technical Lead (Orangebank Spain)
         time: 2020 - present
         company: adesso SE, Spain
         details: |
           Mar.2020 - Present
-          Orangebank: Started as Spanish project, and now working in the fusion of several countries, building a bank from scratch
-          TODO: split Chapter Lead.. Technical Lead.. spain.. and international projects
+          Orangebank: Started as Spanish project, at the beginning as senior developer, and ended up as a Technical Lead position.
             - LWC with JEST Tests
-            - End to end tests with webdriverio
             - Integrations (microservices architecture ecosystem)
             - Git and Pull Request reviewer
             - CICD using Jenkins with sfdx features integrated
@@ -101,9 +148,9 @@ experiences:
             - Apex, triggers, flows, admin tools... etc
             - Focused in best practices: PMD, SONAR, Eslint...
             - Striving to deliver reusable and scalable components and frameworks
-            - Javascript libraries: sheetjs, moment...
-      - role: Architect adesso
-        time: 2020 - present
+            - Javascript libraries: sheetjs, moment..
+      - role: Architect adesso (adesso)
+        time: 2020 - Present
         company: adesso SE, Spain
         details: |
           Mar.2020 - Present
@@ -112,7 +159,7 @@ experiences:
             - Build CICD pipelines to be used for company projects
             - Design of frameworks
             - Training
-      - role: Technical Lead IATA
+      - role: Technical Lead (IATA)
         time: 2020 - 2020
         company: adesso SE, Spain
         details: |
@@ -124,7 +171,7 @@ experiences:
             - Team management
             - Collaborate in several RFPs
             - Trainer
-      - role: Senior Analyst & Programmer IATA
+      - role: Senior Analyst & Programmer (IATA)
         time: 2019 - 2020
         company: adesso SE, Spain
         details: |
@@ -140,7 +187,7 @@ experiences:
             - Google Analytics
             - Agile and Scrum methodology
             - Git with Bitbucket, release manager of the project
-      - role: Senior Analyst & Programmer BBVA
+      - role: Senior Analyst & Programmer (BBVA Bank)
         time: 2018 - 2019
         company: adesso SE, Spain
         details: |
@@ -155,7 +202,7 @@ experiences:
             - Agile and Scrum methodology
             - Git with Bitbucket, Jenkins, Sonar...
             - Visual Studio Code evangelist
-      - role: Developer and Release Manager IBERIA
+      - role: Developer and Release Manager (Iberia Airlines)
         time: 2017 - 2018
         company: Accenture, Madrid
         details: |
@@ -170,13 +217,13 @@ experiences:
                 - Release Manager: with DevOps, Gitlab and Jenkins
                 - Analytical Skills
                 - Team management
-      - role: Developer Practical Training TEVA TAKEDA
+      - role: Developer Practical Training (Teva Takeda Pharma)
         time: 2017 - 2017
         company: Accenture, Madrid
         details: |
           Mar.2017 - Jun.2017 (4 months)
           Working on Salesforce CRM, specially with two international projects which are managed using Salesforce tecnology and Veeva CRM integration.
-          Japanese and Indonesian projects, with Israeli Client
+          Japanese and Indonesian projects, with Israeli customer
       - role: Trailblazer
         time: 2017 - Present
         company: Trailhead by Salesforce
